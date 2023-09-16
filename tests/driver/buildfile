@@ -1,0 +1,3 @@
+import libs = redis-plus-plus%lib{redis-plus-plus}
+
+exe{driver}: cxx{*} $libs

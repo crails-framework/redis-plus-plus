@@ -1,0 +1,7 @@
+project = redis-plus-plus
+
+using version
+using config
+using test
+using install
+using dist

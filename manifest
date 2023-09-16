@@ -1,0 +1,10 @@
+: 1
+name: redis-plus-plus
+version: 1.3.10+1
+summary: Redis client written in C++
+license: Apache-2.0
+url: https://github.com/sewenew/redis-plus-plus
+description-file: README.md
+depends: * build2 >= 0.14.0
+depends: * bpkg >= 0.14.0
+depends: hiredis >= 0.12.1

@@ -1,0 +1,6 @@
+$out_root/
+{
+  include redis-plus-plus/
+}
+
+export $out_root/redis-plus-plus/$import.target
